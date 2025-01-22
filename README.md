@@ -15,7 +15,7 @@ The Car Detection App is designed to detect car types and its brands using machi
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/hamzagodme/car-model-detection.git
+   git clone https://github.com/hamzagodme/car-model-detection.git
     ```
 2. Navigate to the project directory:
     ```bash
