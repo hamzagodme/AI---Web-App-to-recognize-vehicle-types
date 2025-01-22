@@ -1,8 +1,8 @@
-# AI-Web-App-to-recognize-vehicle-types and brands
-Web app to detect the car types and brands using object detection and custom labels
+# AI Web App to recognize vehicle-types and brands
+Web app to detect the car types and brands using object detection and custom labels using Azure custom vision service.
 
 
-# Car Detection App
+# Car Detection App-Front End(React)
 
 ## Overview
 The Car Detection App is designed to detect car types and its brands using machine learning models.
@@ -116,13 +116,6 @@ The Car Detection Server is an Azure-based backend service for the Car Detection
       "brand": "Toyota"
     }
     ```
-## Usage
-
-1. Start the server locally:
-   ```bash
-   npm start
-   ```
-2. The server will be running at `http://localhost:5000`.
 
 ## Contributing
 
