@@ -2,7 +2,7 @@
 Web app to detect the car types and brands using object detection and custom labels using Azure custom vision service.
 
 
-# Car Detection App-Front End(React)
+# Car Detection App-(Front End/React)
 
 ## Overview
 The Car Detection App is designed to detect car types and its brands using machine learning models.
@@ -33,7 +33,7 @@ The Car Detection App is designed to detect car types and its brands using machi
     ```
 2. Open your browser and navigate to `http://localhost:5173`.
 
-# Car Detection Server (Azure)
+# Car Detection Server (Backend/Azure)
 
 ## Overview
 
