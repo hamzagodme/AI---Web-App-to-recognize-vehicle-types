@@ -15,7 +15,7 @@ The Car Detection App is designed to detect car types and its brands using machi
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/car-detection-app.git
+    git clone https://github.com/yourusername/car-model-detection.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -49,7 +49,7 @@ The Car Detection Server is an Azure-based backend service for the Car Detection
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hamzagodme/car-detection-server-azure.git
+   git clone https://github.com/hamzagodme/car-model-detection.git
    ```
 2. Navigate to the project directory:
    ```bash
